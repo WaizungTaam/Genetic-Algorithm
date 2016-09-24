@@ -1,8 +1,6 @@
 Genetic Algorithm
 =================
 
-Genetic Algorithm for Learning Strings
---------------------------------------
+- Learn Strings
 
-Genetic Algorithm for Finding Maximum Value of Functions
---------------------------------------------------------
+- Find Maximum Values of Functions
